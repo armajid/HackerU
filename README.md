@@ -50,6 +50,7 @@ These are hackers to look up to while you become a programmer in your right.
 	- [Getting Real by Basecamp](https://basecamp.com/gettingreal)
 	- [Competitive Programmer's Handbook](https://cses.fi/book/book.pdf)
 	- [Harvard CS50](https://www.youtube.com/c/cs50/featured)
+	- [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 
 -  GitHub resources
 	- [Coding Interview University](https://github.com/jwasham/coding-interview-university)
