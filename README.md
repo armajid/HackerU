@@ -27,3 +27,7 @@ Lessons from hackers on hacking.
 ## Takuya Matsuyama
 
 - [How I thrived as an introverted software developer](https://www.youtube.com/watch?v=QjJUaC6_4D4)
+
+## Patrick Collison
+
+- [Advice](https://patrickcollison.com/advice)
