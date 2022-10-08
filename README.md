@@ -11,3 +11,19 @@ Lessons from hackers on hacking.
 ## Richard M. Stallman
 
 - [On Hacking](https://stallman.org/articles/on-hacking.html)
+- [How to learn programming](https://stallman.org/stallman-computing.html#:~:text=How%20to%20learn%20programming)
+
+## Paul Graham
+
+- [Hackers and Painters](http://www.paulgraham.com/hp.html)
+- [The Word 'Hacker'](http://www.paulgraham.com/gba.html)
+- [Great Hackers](http://www.paulgraham.com/gh.html)
+- [The Hacker's Guide to Investors](http://www.paulgraham.com/guidetoinvestors.html)
+
+## Drew DeVault
+
+- [Hack everything without fear](https://drewdevault.com/2018/03/17/Hack-everything-without-fear.html)
+
+## Takuya Matsuyama
+
+- [How I thrived as an introverted software developer](https://www.youtube.com/watch?v=QjJUaC6_4D4)
