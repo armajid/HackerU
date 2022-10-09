@@ -31,3 +31,7 @@ Lessons from hackers on hacking.
 ## Patrick Collison
 
 - [Advice](https://patrickcollison.com/advice)
+
+## Peter Norvig
+
+- [Teach Yourself Programming in Ten Years](https://norvig.com/21-days.html)
