@@ -23,7 +23,7 @@ Lessons from hackers on hacking.
 ## Drew DeVault
 
 - [Hack everything without fear](https://drewdevault.com/2018/03/17/Hack-everything-without-fear.html)
-- [Principles for C Programming](https://drewdevault.com/2017/03/15/How-I-learned-to-stop-worrying-and-love-C.html)
+- [Principles for C programming](https://drewdevault.com/2017/03/15/How-I-learned-to-stop-worrying-and-love-C.html)
 
 ## Takuya Matsuyama
 
