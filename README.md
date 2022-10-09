@@ -19,6 +19,7 @@ Lessons from hackers on hacking.
 - [The Word 'Hacker'](http://www.paulgraham.com/gba.html)
 - [Great Hackers](http://www.paulgraham.com/gh.html)
 - [The Hacker's Guide to Investors](http://www.paulgraham.com/guidetoinvestors.html)
+- [Holding a Program in One's Head](http://www.paulgraham.com/head.html)
 
 ## Drew DeVault
 
