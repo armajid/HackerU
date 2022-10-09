@@ -1,6 +1,6 @@
 # HackerU
 
-Lessons from hackers on hacking.
+Lessons from hackers on hacking and programming.
 
 ## Eric S. Raymond
 
