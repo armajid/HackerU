@@ -1,4 +1,4 @@
-# HackerU
+# ![HackerU logo](./HackerU.png)
 
 Lessons from hackers on hacking and programming.
 
