@@ -1,6 +1,6 @@
 # Changelog
 
-## 11/10/22
+## 11/10/2022
 
 - Added Donald Knuth and 'Pi and The Art of Computer Programming' lecture from 2019.
 
