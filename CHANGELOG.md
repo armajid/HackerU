@@ -2,6 +2,7 @@
 
 ## 11/10/2022
 
+- Added John Carmack (id Software, Doom, Quake) and 'How to be a great programmer'. 
 - Added Donald Knuth and 'Pi and The Art of Computer Programming' lecture from 2019.
 
 ## 10/10/2022
