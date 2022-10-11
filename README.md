@@ -41,3 +41,7 @@ Lessons from hackers on hacking and programming.
 ## Donald Knuth
 
 - [Pi and The Art of Computer Programming (2019)](https://www.youtube.com/watch?v=3DKo219ZHMw)
+
+## John Carmack
+
+- [How to be a great programmer](https://www.youtube.com/watch?v=xzPuGf89vpI)
