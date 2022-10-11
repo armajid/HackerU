@@ -37,3 +37,7 @@ Lessons from hackers on hacking and programming.
 ## Peter Norvig
 
 - [Teach Yourself Programming in Ten Years](https://norvig.com/21-days.html)
+
+## Donald Knuth
+
+- [Pi and The Art of Computer Programming (2019)](https://www.youtube.com/watch?v=3DKo219ZHMw)
