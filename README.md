@@ -45,3 +45,7 @@ Lessons from hackers on hacking and programming.
 ## John Carmack
 
 - [How to be a great programmer](https://www.youtube.com/watch?v=xzPuGf89vpI)
+
+## Bjarne Stroustrup
+
+- [Learn More than One Programming Language](https://www.youtube.com/watch?v=5An1sNznblQ)
