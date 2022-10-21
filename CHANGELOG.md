@@ -1,5 +1,9 @@
 # Changelog
 
+## 21/10/2022
+
+- Added Bjarne Stroustrup, the creator of C++ and 'Learn More than One Programming Language.'
+
 ## 11/10/2022
 
 - Added John Carmack (id Software, Doom, Quake) and 'How to be a great programmer'. 
