@@ -37,6 +37,7 @@ Lessons from hackers on hacking and programming.
 ## Peter Norvig
 
 - [Teach Yourself Programming in Ten Years](https://norvig.com/21-days.html)
+- [Python for Lisp Programmers](https://norvig.com/python-lisp.html)
 
 ## Donald Knuth
 
